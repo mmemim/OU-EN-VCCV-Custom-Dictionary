@@ -9076,9 +9076,9 @@ entries:
     phonemes: [s, t, r, I, k, 1, ng]
   - grapheme: string
     phonemes: [s, t, r, 1, ng]
-  - grapheme: strong
+  - grapheme: string(2)
     phonemes: [s, t, r, A, ng]
-  - grapheme: strong(2)
+  - grapheme: strong
     phonemes: [s, t, r, a, ng]
   - grapheme: stronger
     phonemes: [s, t, r, a, ng, 3]
